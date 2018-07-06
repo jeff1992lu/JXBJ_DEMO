@@ -12,14 +12,14 @@
   position:absolute;
   z-index:0;
 }
-#u726 {
+#u689 {
   position:absolute;
   left:0px;
   top:0px;
   width:0px;
   height:0px;
 }
-#u727_div {
+#u690_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -37,7 +37,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u727 {
+#u690 {
   position:absolute;
   left:450px;
   top:208px;
@@ -48,7 +48,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u728 {
+#u691 {
   position:absolute;
   left:2px;
   top:135px;
@@ -56,7 +56,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u729_div {
+#u692_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -75,7 +75,7 @@
   font-size:14px;
   color:#666666;
 }
-#u729 {
+#u692 {
   position:absolute;
   left:501px;
   top:258px;
@@ -87,14 +87,14 @@
   font-size:14px;
   color:#666666;
 }
-#u730 {
+#u693 {
   position:absolute;
   left:0px;
   top:0px;
   width:321px;
   word-wrap:break-word;
 }
-#u731_div {
+#u694_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -110,7 +110,7 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u731 {
+#u694 {
   position:absolute;
   left:450px;
   top:171px;
@@ -119,14 +119,14 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u732 {
+#u695 {
   position:absolute;
   left:16px;
   top:12px;
   width:342px;
   word-wrap:break-word;
 }
-#u733_div {
+#u696_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -146,7 +146,7 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u733 {
+#u696 {
   position:absolute;
   left:450px;
   top:323px;
@@ -159,7 +159,7 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u734 {
+#u697 {
   position:absolute;
   left:16px;
   top:15px;
@@ -167,7 +167,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u735_div {
+#u698_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -187,7 +187,7 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u735 {
+#u698 {
   position:absolute;
   left:450px;
   top:323px;
@@ -200,7 +200,7 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u736 {
+#u699 {
   position:absolute;
   left:16px;
   top:-4px;
@@ -208,7 +208,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u737_div {
+#u700_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -230,7 +230,7 @@
   font-size:13px;
   color:#000000;
 }
-#u737 {
+#u700 {
   position:absolute;
   left:673px;
   top:332px;
@@ -242,28 +242,28 @@
   font-size:13px;
   color:#000000;
 }
-#u738 {
+#u701 {
   position:absolute;
   left:2px;
   top:4px;
   width:56px;
   word-wrap:break-word;
 }
-#u739_img {
+#u702_img {
   position:absolute;
   left:0px;
   top:0px;
   width:28px;
   height:28px;
 }
-#u739 {
+#u702 {
   position:absolute;
   left:465px;
   top:253px;
   width:28px;
   height:28px;
 }
-#u740 {
+#u703 {
   position:absolute;
   left:2px;
   top:6px;
@@ -271,7 +271,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u741_div {
+#u704_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -290,7 +290,7 @@
   font-size:13px;
   color:#FFFFFF;
 }
-#u741 {
+#u704 {
   position:absolute;
   left:741px;
   top:332px;
@@ -302,14 +302,14 @@
   font-size:13px;
   color:#FFFFFF;
 }
-#u742 {
+#u705 {
   position:absolute;
   left:12px;
   top:4px;
   width:36px;
   word-wrap:break-word;
 }
-#u743_div {
+#u706_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -325,7 +325,7 @@
   font-size:18px;
   color:#FFFFFF;
 }
-#u743 {
+#u706 {
   position:absolute;
   left:771px;
   top:172px;
@@ -334,10 +334,42 @@
   font-size:18px;
   color:#FFFFFF;
 }
-#u744 {
+#u707 {
   position:absolute;
   left:2px;
   top:8px;
   width:35px;
   word-wrap:break-word;
+}
+#u708_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:265px;
+  height:11px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  color:#FF0000;
+}
+#u708 {
+  position:absolute;
+  left:501px;
+  top:287px;
+  width:265px;
+  height:11px;
+  font-size:10px;
+  color:#FF0000;
+}
+#u709 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:265px;
+  white-space:nowrap;
 }
